@@ -1,3 +1,6 @@
 smør
 flesk
 krydder
+chili
+cayannepepper
+curry
